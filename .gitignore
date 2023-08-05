@@ -33,3 +33,8 @@
 
 
 settings.json
+src/chapter1/.temp
+*.udb
+untitled.*
+src/chapter2/date_time/date_time.hpp
+NOTE/ts.c
