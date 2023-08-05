@@ -21,7 +21,7 @@ int main(){
         // 断言
         assert(d1 == date(not_a_date_time)); // 比较一个临时对象
         assert(d2 == d4);
-        assert(d3 < d2);
+        assert(d3 < d2 );
     }
 
     {
